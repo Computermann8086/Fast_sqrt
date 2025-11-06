@@ -1,6 +1,7 @@
 #include <sqrt.c>
 #include <stdio.h>
 #include <windows.h>
+#include <limits.h>
 
 void print_long_bits(long num) {
     // Determine the number of bits in a long
